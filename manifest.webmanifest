@@ -1,0 +1,15 @@
+{
+"name": "LXC Law | Lex & Code",
+"short_name": "LXC Law",
+"description": "Strategic legal-tech advisory in DPP, AI Act, MiCA, tokenization and RegTech.",
+"start_url": "/",
+"scope": "/",
+"display": "standalone",
+"theme_color": "#0A0F4F",
+"background_color": "#ffffff",
+"icons": [
+{ "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+{ "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+],
+"lang": "es"
+}
